@@ -50,3 +50,6 @@ Github Link: https://github.com/JasonO0619/Capstone_TradeNest.git (I've worked w
 Description: A collaborative To-Do app using Xcode and Swift with the ability to create/modify/delete tasks with an interactive calender
 Tech Stack used: Swift, Xcode
 Github Link: https://github.com/JasonO0619/SwiftProject.git
+
+
+(In view all my coursework from my orignal github, here is the libk: https://github.com/JasonO0619?tab=repositories)

@@ -52,4 +52,4 @@ Tech Stack used: Swift, Xcode
 Github Link: https://github.com/JasonO0619/SwiftProject.git
 
 
-(In view all my coursework from my orignal github, here is the libk: https://github.com/JasonO0619?tab=repositories)
+(In view all my coursework from my orignal github, here is the link: https://github.com/JasonO0619?tab=repositories)
